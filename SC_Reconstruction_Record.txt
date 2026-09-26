@@ -1,0 +1,37 @@
+S–C RECONSTRUCTION RECORD
+
+Check one material review conclusion against the completed synthesis finding(s) that support it. Use when the conclusion is consequential, disputed, or useful to document. One record per claim; split claims that rely on different support. This record locates appraisal; it does not perform it.
+
+Review: ____________________   Completed by / date: ____________________
+
+1. PAIR. WHAT IS THE CLAIM, AND WHAT SUPPORTS IT?
+C - selected conclusion and exact location:
+______________________________________________________________________
+S - smallest sufficient completed synthesis finding(s) and location(s):
+Trace C through the review's synthesis question(s). Include scope, qualifications and interpretation already produced by the synthesis.
+______________________________________________________________________
+Another plausible S–C pairing that changes the answer? [ ] No [ ] Yes: use a separate record for that pair.
+
+2. COMPARE. WHAT DOES C REQUIRE BEYOND S?
+Accept S, including its qualifications. What substantive part of C, if any, remains open? Ignore wording differences alone.
+[ ] Nothing remains open. C adds no claim. Go to Step 4. If the claim itself is disputed, note its first entry in Step 3.
+[ ] Something remains open. State only the smallest extra claim, leaving out what S already establishes:
+______________________________________________________________________
+
+3. LOCATE. WHERE DOES THE CLAIM BELONG?
+Extra or disputed claim: ______________________________________________
+First entered at (exact review location): [ ] Synthesis [ ] Conclusion [ ] Earlier: __________
+Evidence, reasoning or established method responsible for appraisal:
+______________________________________________________________________
+Appraisal: [ ] Already done at relevant scope [ ] Needs checking [ ] Unclear
+If the disputed claim entered before C, examine it there. Editing C alone does not resolve the earlier inference.
+
+4. DECIDE. WHAT HAPPENS TO THIS C?
+[ ] Retain / stop: C carries forward what S and prior appraisal establish.
+[ ] Retain and clarify basis: a supported addition needs its basis stated.
+[ ] Narrow or revise: support warrants a weaker or more qualified C.
+[ ] Separate: a distinct implication or interpretation needs its own basis.
+Reason: S establishes ______; C [carries/adds] ______; appraisal belongs ______; therefore ______.
+What remains uncertain, including selection of S? ______________________
+
+Jie Qi, Forming Claims in Evidence Synthesis: From Synthesis Findings to Review Conclusions. Record v0.3, 26 September 2026. Add article and archived record DOIs after release. Cite the article for the procedure and the archived version for reuse of this form.
